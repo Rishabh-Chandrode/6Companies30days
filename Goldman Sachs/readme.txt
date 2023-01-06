@@ -9,3 +9,7 @@
 
     n +  n  +   n    .......
     5   5*5   5*5*5
+
+#4 Number of Boomerangs
+    calculate no of points with same distance to a point 
+    use permutation 
