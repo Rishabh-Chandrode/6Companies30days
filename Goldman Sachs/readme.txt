@@ -13,3 +13,7 @@
 #4 Number of Boomerangs
     calculate no of points with same distance to a point 
     use permutation 
+
+#5 Split Array into Consecutive Subsequences.cpp
+    use two maps one for frequency and one for vacancy
+    creates groups according to need
