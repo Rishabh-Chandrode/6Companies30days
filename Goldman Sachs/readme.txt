@@ -17,3 +17,6 @@
 #5 Split Array into Consecutive Subsequences.cpp
     use two maps one for frequency and one for vacancy
     creates groups according to need
+
+#6 Minimum Consecutive Cards to Pick Up
+    store frequency using hashmap
