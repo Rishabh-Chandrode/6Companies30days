@@ -20,3 +20,8 @@
 
 #6 Minimum Consecutive Cards to Pick Up
     store frequency using hashmap
+
+#7 *
+
+#8 Maximum Points in an Archery Competition
+    use Recursion and backtracking to check all cases
